@@ -1,0 +1,7 @@
+[commit]
+	gpgsign = true
+[alias]
+	hist = log --oneline --reverse
+
+[core]
+	editor = vi
